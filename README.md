@@ -1,3 +1,5 @@
+# E-commerce-Customer-Behavior
+
 Project Overview
 
 This project focuses on analyzing customer behavior in an e-commerce dataset. Through a combination of exploratory data analysis (EDA) and unsupervised learning techniques, we identified patterns and grouped customers into meaningful clusters to derive actionable insights.
